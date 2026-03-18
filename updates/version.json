@@ -1,10 +1,10 @@
 {
   "version": "1.0.1",
-  "url": "https://raw.githubusercontent.com/YOUR_USERNAME/billingx-updates/main/updates/BillingX.exe",
+  "url": "https://raw.githubusercontent.com/Zeus756653658/billingx-updates/main/updates/BillingX.exe",
   "changelog": [
-    "Added update system",
-    "Improved UI design",
-    "Fixed invoice bug",
-    "Better performance"
+    "New update UI added",
+    "Download progress bar added",
+    "Bug fixes",
+    "Improved speed"
   ]
 }
