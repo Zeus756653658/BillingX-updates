@@ -1,11 +1,11 @@
 {
-  "version": "1.0.2",
-  "release_date": "2026-04-04",
-  "installer_url": "https://github.com/Zeus756653658/BillingX-updates/releases/download/v1.0.2/BillingX_Setup_1.0.2.exe",
-  "release_page": "https://github.com/Zeus756653658/BillingX-updates/releases/tag/v1.0.2",
-  "notes": [
-    "Bug fixes",
-    "New features",
-    "Improved updater"
+  "latest_version": "1.0.2",
+  "title": "Billing X Update Notification",
+  "summary": "New invoice improvements and bug fixes.",
+  "release_date": "2026-04-10",
+  "changes": [
+    "Improved thermal QR printing",
+    "Added invoice PDF manager",
+    "Fixed service loading issue"
   ]
 }
