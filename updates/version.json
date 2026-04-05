@@ -3,6 +3,7 @@
   "title": "Billing X Update Notification",
   "summary": "New invoice improvements and bug fixes.",
   "release_date": "2026-04-10",
+  "Downloda Link": "https://www.mediafire.com/file/5lfgtjo2kgm8spc/BillingXstup.1.9.0.exe/file",
   "changes": [
     "Improved thermal QR printing",
     "Added invoice PDF manager",
