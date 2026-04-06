@@ -1,18 +1,11 @@
 {
-  "latest_version": "1.0.4",
+  "latest_version": "1.1.4",
   "title": "Billing X Update Notification",
   "summary": "New invoice improvements and bug fixes.",
   "release_date": "2026-04-06",
   "Downloda Link": "https://www.mediafire.com/file/tadht6ftc66wbvh/BillingXsetup1.0.4.exe/file",
   "changes": [
-      "Fixed sell item quantity issues",
-       "Added seller name support in sales entries",
-       "Renamed Stuff section to Employee",
-       "Renamed Product section to Services",
-       "Fixed repeated pop-up windows to show only one window",
-       "Added daily expense system",
-       "Added employee salary system",
-       "Added New UI & Features Of Daliiy Basses Work",
-       "And Add Many More Usefull Featurres"
+      "*patch Update 0.1",
+      "Fixed Licenes & Activetions issues"
     ]
 }
