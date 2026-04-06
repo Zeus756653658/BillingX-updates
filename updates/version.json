@@ -1,9 +1,9 @@
 {
-  "latest_version": "1.0.3",
+  "latest_version": "1.0.4",
   "title": "Billing X Update Notification",
   "summary": "New invoice improvements and bug fixes.",
   "release_date": "2026-04-06",
-  "Downloda Link": "https://www.mediafire.com/file/8hn30uiiromtr5t/BillingXsetup1.0.3.exe/file",
+  "Downloda Link": "https://www.mediafire.com/file/tadht6ftc66wbvh/BillingXsetup1.0.4.exe/file",
   "changes": [
       "Fixed sell item quantity issues",
        "Added seller name support in sales entries",
@@ -12,13 +12,7 @@
        "Fixed repeated pop-up windows to show only one window",
        "Added daily expense system",
        "Added employee salary system",
-       "Added employee attendance system",
-       "Added payment method support for Cash and Online",
-       "Added monthly sale report search option",
-       "Added password protection for deleting sell invoices",
-       "Added discount fetcher",
-       "Added network date support",
-       "Improved Treeview and added extra functions",
-       "Added two table types"
+       "Added New UI & Features Of Daliiy Basses Work",
+       "And Add Many More Usefull Featurres"
     ]
 }
