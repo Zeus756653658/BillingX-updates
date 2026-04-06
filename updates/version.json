@@ -5,24 +5,20 @@
   "release_date": "2026-04-06",
   "Downloda Link": "https://www.mediafire.com/file/8hn30uiiromtr5t/BillingXsetup1.0.3.exe/file",
   "changes": [
-    "Improved thermal QR printing",
-    "Added invoice PDF manager",
-    "Fixed service loading issue"
-    "Changes": [
-        "Fixed sell item quantity issues",
-        "Added seller name support in sales entries",
-        "Renamed Stuff section to Employee",
-        "Renamed Product section to Services",
-        "Fixed repeated pop-up windows to show only one window",
-        "Added daily expense system",
-        "Added employee salary system",
-        "Added employee attendance system",
-        "Added payment method support for Cash and Online",
-        "Added monthly sale report search option",
-        "Added password protection for deleting sell invoices",
-        "Added discount fetcher",
-        "Added network date support",
-        "Improved Treeview and added extra functions",
-        "Added two table types"
+      "Fixed sell item quantity issues",
+       "Added seller name support in sales entries",
+       "Renamed Stuff section to Employee",
+       "Renamed Product section to Services",
+       "Fixed repeated pop-up windows to show only one window",
+       "Added daily expense system",
+       "Added employee salary system",
+       "Added employee attendance system",
+       "Added payment method support for Cash and Online",
+       "Added monthly sale report search option",
+       "Added password protection for deleting sell invoices",
+       "Added discount fetcher",
+       "Added network date support",
+       "Improved Treeview and added extra functions",
+       "Added two table types"
     ]
 }
