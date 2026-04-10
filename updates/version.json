@@ -2,10 +2,25 @@
   "latest_version": "1.1.4",
   "title": "Billing X Update Notification",
   "summary": "New invoice improvements and bug fixes.",
-  "release_date": "2026-04-07",
-  "Downloda Link": "https://www.mediafire.com/file/blefj7wx7xdqk7u/BillingXsetup1.1.4.exe/file",
+  "release_date": "2026-04-11",
+  "Downloda Link": "https://www.mediafire.com/file/blefj7wx7xdqk7u/BillingXsetup1.1.5.exe/file",
   "changes": [
-      "*patch Update 0.1",
-      "Fixed Licenes & Activetions issues"
+      "*⭐ Add Scrollbar",
+        "🔸P/L Dashboard Treeviwe",
+        "🔸Product manager Treeviwe (product to Services)",
+        "⭐ Bug Fix",
+        "🔘Business Overview ➖Today sales not showing (no sales recorded today yet)",
+        "🔸Today expenses not showing",
+        "🔸Monthly profit not showing",
+        "🔸 Employee invoice Database show invoice not Working",
+        "🔸 Employee Attendance System remove",
+        "🔸New Bill Function not Working",
+        "🔔 Notification Section",
+        "🔸 Remove Customer b,day & anivr & no sales recorded today yet",
+        "⭐ Add Function",
+        "🔸Sarvice type (Male/Female)>Service Catagory>service Name",
+        "🔸 Phono number Always set 10 Digit number (0). (Changeable)",
+        "🔸 Address Always Set (Malda).(Changeable)",
+        "🔸 Settings>Resetting Invoice Number> Devloper Role"
     ]
 }
