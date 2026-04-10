@@ -21,6 +21,7 @@
         "🔸Sarvice type (Male/Female)>Service Catagory>service Name",
         "🔸 Phono number Always set 10 Digit number (0). (Changeable)",
         "🔸 Address Always Set (Malda).(Changeable)",
-        "🔸 Settings>Resetting Invoice Number> Devloper Role"
+        "🔸 Settings>Resetting Invoice Number> Devloper Role",
+        "🔸Chak box Deleted function in (Employee Salary Dashboard, Sales Dashboard,  Sell Item Maneger, Daily Expense System, Dealers payment Record, Service Maneger)"
     ]
 }
