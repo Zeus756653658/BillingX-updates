@@ -1,5 +1,5 @@
 {
-    "latest_version": "1.1.7",
+    "latest_version": "1.2.7",
     "mandatory": false,
     "download_url": "https://github.com/Zeus756653658/BillingX-updates/releases/download/v1.1.7/BillingX-1.1.7.zip",
     "sha256": "",
@@ -9,6 +9,6 @@
         "Bug fixes and improvements",
         "May security update"
     ],
-    "release_date": "2026-08-16","02:30",
+    "release_date": "2026-08-16","02:27",
     "notes": "https://github.com/Zeus756653658/BillingX-updates/releases/tag/v1.1.7"
 }
