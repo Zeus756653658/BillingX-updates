@@ -1,14 +1,12 @@
 {
-    "latest_version": "1.1.7",
+    "latest_version": "1.2.8",
     "mandatory": false,
-    "download_url": "https://github.com/Zeus756653658/BillingX-updates/releases/download/v1.1.7/BillingX-1.1.7.zip",
-    "sha256": "",
+    "download_url": "https://github.com/Zeus756653658/BillingX-updates/releases/download/v1.2.8/BillingX-1.2.8.zip",
+    "sha256": "fd8579173416b92f568000ad44d09823be6951370b0493b6ad211dc7bfeca1a6",
     "package_type": "zip",
     "changes": [
-        "New UI improvements",
-        "Bug fixes and improvements",
-        "May security update"
+        "new fix"
     ],
-    "release_date": "2026-08-16",
-    "notes": "https://github.com/Zeus756653658/BillingX-updates/releases/tag/v1.1.7"
+    "release_date": "2026-08-26",
+    "notes": "https://github.com/Zeus756653658/BillingX-updates/releases/tag/v1.2.8"
 }
