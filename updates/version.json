@@ -1,12 +1,42 @@
 {
-    "latest_version": "1.1.7",
+    "latest_version": "2.0.0",
     "mandatory": false,
-    "download_url": "https://github.com/Zeus756653658/BillingX-updates/releases/download/v1.4.8/BillingX-1.1.7.zip",
+    "download_url": "",
     "sha256": "",
     "package_type": "zip",
     "changes": [
-        "fix & update"
-    ],
-    "release_date": "2026-08-26",
-    "notes": "https://github.com/Zeus756653658/BillingX-updates/releases/tag/v1.1.7"
+    "COOMING SOON",    
+    "Completely redesigned Billing X interface with a brand-new modern UI",
+    "Added new 2.0.0 Pro Dashboard",
+    "Added new sidebar navigation for faster access to all modules",
+    "Added new customer management interface",
+    "Added new product management interface",
+    "Added new billing and invoice interface",
+    "Added new sales management section",
+    "Added new stock management section",
+    "Added new GST management section",
+    "Added new reports and analytics section",
+    "Added new settings interface",
+    "Added improved invoice creation workflow",
+    "Added improved customer search and selection",
+    "Added improved product search and selection",
+    "Added improved stock tracking",
+    "Added improved sales tracking",
+    "Added improved GST calculation and billing support",
+    "Added improved invoice preview and management",
+    "Added improved database system using SQLite",
+    "Added new structured local data storage for Billing X 2.0.0",
+    "Added improved license activation and device verification",
+    "Added improved cloud license verification",
+    "Added improved update system",
+    "Added improved application stability and error handling",
+    "Improved overall navigation and user experience",
+    "Improved application performance",
+    "Improved visual consistency across the application",
+    "Fixed multiple UI rendering and layout issues",
+    "Fixed various billing and data handling issues",
+    "Fixed various application stability issues"
+]
+    "release_date": "2026-09-15",
+    "notes": ""
 }
