@@ -2,7 +2,6 @@
     "latest_version": "2.1.0",
     "mandatory": false,
     "download_url": "https://github.com/Zeus756653658/BillingX-updates/releases/download/v2.1.0/Billing.X.2.1.0.zip",
-    "sha256": "b0ffff3c2299551401bdfcf35ea9be8283c0aab612cc0241c5d813e4f0f2a393",
     "package_type": "zip",
     "changes": [
         "Testing Update 2.0.0 -> 2.1.0"
