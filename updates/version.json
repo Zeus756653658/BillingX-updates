@@ -1,11 +1,53 @@
 {
-    "latest_version": "2.1.1",
+    "latest_version": "2.0.0",
     "mandatory": false,
-    "download_url": "https://github.com/Zeus756653658/BillingX-updates/releases/download/v2.1.1_Beta/Billing.2.1.1.zip",
+    "download_url": "https://github.com/Zeus756653658/BillingX-updates/releases/download/v2.0.0/Billing.X.2.0.0.zip",
     "package_type": "zip",
     "changes": [
-        "Beta Update 2.0.0 -> 2.1.0"
+        "🚀 Major Update — 1.1.7 → 2.0.0",
+
+        "🔐 Login & Security",
+        "📧 Gmail OTP verification and registration flow",
+        "⏱️ OTP countdown, expiry and resend system",
+        "🌍 Country selection and phone number normalization",
+        "💻 OS type registration support",
+
+        "🛒 Purchase & Licensing",
+        "🛍️ Updated purchase workflow",
+        "🔑 Improved license request and assignment workflow",
+        "🔒 Device-bound license verification",
+        "📩 License assignment email workflow",
+
+        "👥 Customer Management",
+        "👤 Customer registration and profile handling",
+        "☁️ Supabase customer data synchronization",
+
+        "🧾 Billing",
+        "🧮 GST billing improvements",
+        "🧾 Invoice numbering and invoice workflow improvements",
+        "💾 Improved save and print functionality",
+        "🔎 Customer and item autocomplete",
+
+        "📦 Stock Management",
+        "📊 Stock management improvements",
+        "⚠️ Low-stock warning support",
+
+        "📈 Reports & Analytics",
+        "📊 Sales and business reporting improvements",
+        "📅 Monthly reporting improvements",
+
+        "🔔 Notifications",
+        "🔔 Toast/notification feedback for save, discard, cancel, delete and refresh actions",
+
+        "🎨 UI & UX",
+        "✨ Overall interface improvements",
+        "🖥️ Improved dashboard experience",
+        "📱 Improved layout and usability",
+
+        "⚡ Performance & Stability",
+        "⚡ Performance improvements",
+        "🐛 Bug fixes and stability improvements"
     ],
-    "release_date": "2026-09-12",
-    "notes": "https://github.com/Zeus756653658/BillingX-updates/releases/tag/v2.1.1_Beta"
+    "release_date": "2026-09-15",
+    "notes": "https://github.com/Zeus756653658/BillingX-updates/releases/tag/v2.0.0"
 }
