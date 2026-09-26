@@ -1,12 +1,12 @@
 {
-    "latest_version": "2.2.1.237.151",
+    "latest_version": "2.2.2.237.152",
     "mandatory": false,
-    "download_url": "https://github.com/Zeus756653658/BillingX-updates/releases/download/v2.2.1.237.151/2.2.1.237.151.zip",
+    "download_url": "https://github.com/Zeus756653658/BillingX-updates/releases/download/v2.2.2.237.152/2.2.2.237.152.zip",
     "package_type": "zip",
-    "sha256": "0908590478b4892d4620cc49991ece338142fa554c7da40985d2ac92144ad126",
-    "file_size": 142584263,
+    "sha256": "30f2ef51b3bdbfb47a7f54c4ed44a7b6382b62dce447ef102020c775b7480b98",
+    "file_size": 261550478,
     "changes": [
-        "🚀 Major Release — Billing X v2.2.1.237.151",
+        "🚀 Major Release — Billing X v2.2.2.237.152",
         "⚡ Silent In-Place Patch Subsystem",
         "🛡️ Zero-click background hotfix loader with dynamic sys.path injection",
         "🔄 Automated quarantine rollback preventing crashes from corrupt patches",
@@ -35,5 +35,5 @@
         "🐛 Layout and geometry stability fixes for various screen resolutions"
     ],
     "release_date": "2026-09-26",
-    "notes": "https://github.com/Zeus756653658/BillingX-updates/releases/tag/v2.2.1.237.151"
+    "notes": "https://github.com/Zeus756653658/BillingX-updates/releases/tag/v2.2.2.237.152"
 }
