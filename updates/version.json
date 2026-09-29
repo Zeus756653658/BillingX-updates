@@ -6,7 +6,7 @@
     "sha256": "a28021940bade24180f782daae86fd2e47851b2064c48876acfa5a6a08d9cca6",
     "file_size": 261723171,
     "changes": [
-        "🚀 Major Release — Billing X v2.3.3.250.153",
+        "🚀 minor Release — Billing X v2.3.3.250.153",
         "🏷️ Login Window Version Indicator pinned to bottom-left corner",
         "🔐 Developer-Only Software Deactivation with Hardware Telemetry & Danger Zone",
         "🛡️ Patch Anti-Downgrade & Auto-Purge Protection Subsystem",
