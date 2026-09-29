@@ -1,18 +1,20 @@
 {
-    "latest_version": "2.3.3.250.153",
+    "latest_version": "2.3.4.250.154",
     "mandatory": false,
-    "download_url": "https://github.com/Zeus756653658/BillingX-updates/releases/download/v2.3.3.250.153/2.3.3.250.153.zip",
+    "download_url": "https://github.com/Zeus756653658/BillingX-updates/releases/download/v2.3.4.250.154/2.3.4.250.154.zip",
     "package_type": "zip",
-    "sha256": "a28021940bade24180f782daae86fd2e47851b2064c48876acfa5a6a08d9cca6",
-    "file_size": 261723171,
+    "sha256": "373e68a5897fa7d98143065e627b346b0bc88d875851d2b25e696e64b920d0c7",
+    "file_size": 261726123,
     "changes": [
-        "🚀 minor Release — Billing X v2.3.3.250.153",
+        "🚀 Minor Update — Billing X v2.3.4.250.154",
+        "🛡️ 5-Part Hierarchical Version Engine (Strict Downgrade Prevention)",
+        "🔒 Complete Data Shielding Guarantee (Zero Overwrite on user DB, invoices & JSON data)",
+        "⚡ Safe File & Engine Silent Patch Ingestion Architecture",
+        "🛡️ Patch Packaging Safety & Automated Data Exclusion in make_patch.py",
+        "📊 Live Data Protection Status Badges in Patch Management Center",
         "🏷️ Login Window Version Indicator pinned to bottom-left corner",
-        "🔐 Developer-Only Software Deactivation with Hardware Telemetry & Danger Zone",
-        "🛡️ Patch Anti-Downgrade & Auto-Purge Protection Subsystem",
-        "✨ Modern PySide6 Qt Entry Point with Animated RGB Neon Profile Aura",
-        "📦 Fresh Standalone Executable & Inno Setup Modern Installer"
+        "🔐 Developer-Only Software Deactivation with Hardware Telemetry"
     ],
     "release_date": "2026-09-29",
-    "notes": "https://github.com/Zeus756653658/BillingX-updates/releases/tag/v2.3.3.250.153"
+    "notes": "https://github.com/Zeus756653658/BillingX-updates/releases/tag/v2.3.4.250.154"
 }
