@@ -1,20 +1,20 @@
 {
-    "latest_version": "2.3.4.250.154",
+    "latest_version": "2.3.5.254.156",
     "mandatory": false,
-    "download_url": "https://github.com/Zeus756653658/BillingX-updates/releases/download/v2.3.4.250.154/2.3.4.250.154.zip",
+    "download_url": "https://github.com/Zeus756653658/BillingX-updates/releases/download/v2.3.5.254.156/2.3.5.254.156.zip",
     "package_type": "zip",
-    "sha256": "373e68a5897fa7d98143065e627b346b0bc88d875851d2b25e696e64b920d0c7",
-    "file_size": 261726123,
+    "sha256": "2e542463c377953c164768236f8299b51a2dc2ac590d80d4e79c5bf81d7e2ecc",
+    "file_size": 261652265,
     "changes": [
-        "🚀 Minor Update — Billing X v2.3.4.250.154",
+        "🚀 Major Release — Billing X v2.3.5.254.156",
+        "🛡️ PyInstaller Bootloader Restart Security Validation & Process Isolation Fix",
+        "🔄 Dynamic Login Window Version Auto-Update & Real-Time Sync",
+        "⚡ Instant Patch Worker Auto-Check (1.2s Fast Trigger & Zero Delay)",
+        "🛡️ Anti-Crash Quarantine Stability & False-Positive Boot Lock Elimination",
         "🛡️ 5-Part Hierarchical Version Engine (Strict Downgrade Prevention)",
         "🔒 Complete Data Shielding Guarantee (Zero Overwrite on user DB, invoices & JSON data)",
-        "⚡ Safe File & Engine Silent Patch Ingestion Architecture",
-        "🛡️ Patch Packaging Safety & Automated Data Exclusion in make_patch.py",
-        "📊 Live Data Protection Status Badges in Patch Management Center",
-        "🏷️ Login Window Version Indicator pinned to bottom-left corner",
-        "🔐 Developer-Only Software Deactivation with Hardware Telemetry"
+        "⚡ Safe File & Engine Silent Patch Ingestion Architecture"
     ],
-    "release_date": "2026-09-29",
-    "notes": "https://github.com/Zeus756653658/BillingX-updates/releases/tag/v2.3.4.250.154"
+    "release_date": "2026-09-30",
+    "notes": "https://github.com/Zeus756653658/BillingX-updates/releases/tag/v2.3.5.254.156"
 }
