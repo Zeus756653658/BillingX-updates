@@ -1,20 +1,19 @@
 {
-    "latest_version": "2.3.5.254.156",
+    "latest_version": "2.3.6",
     "mandatory": false,
-    "download_url": "https://github.com/Zeus756653658/BillingX-updates/releases/download/v2.3.5.254.156/2.3.5.254.156.zip",
+    "download_url": "https://github.com/Zeus756653658/BillingX-updates/releases/download/v2.3.6/2.3.6.zip",
     "package_type": "zip",
-    "sha256": "2e542463c377953c164768236f8299b51a2dc2ac590d80d4e79c5bf81d7e2ecc",
-    "file_size": 261652265,
+    "sha256": "cee74fdd67d6b3fbf2df9e0015729c92c79d0c82b3489b6fe28e797f7afe5504",
+    "file_size": 261654104,
     "changes": [
-        "🚀 Minor Update — Billing X v2.3.5.254.156",
-        "🛡️ PyInstaller Bootloader Restart Security Validation & Process Isolation Fix",
+        "🚀 Minor Release — Billing X v2.3.6",
+        "🛡️ PyInstaller Bootloader Restart Security Validation & Subprocess Isolation Fix",
         "🔄 Dynamic Login Window Version Auto-Update & Real-Time Sync",
-        "⚡ Instant Patch Worker Auto-Check (1.2s Fast Trigger & Zero Delay)",
-        "🛡️ Anti-Crash Quarantine Stability & False-Positive Boot Lock Elimination",
-        "🛡️ 5-Part Hierarchical Version Engine (Strict Downgrade Prevention)",
+        "⚡ Decoupled Patch Architecture & Independent Silent Hotfix System",
+        "🛡️ Anti-Crash Quarantine Stability & False-Positive Rollback Elimination",
         "🔒 Complete Data Shielding Guarantee (Zero Overwrite on user DB, invoices & JSON data)",
         "⚡ Safe File & Engine Silent Patch Ingestion Architecture"
     ],
     "release_date": "2026-09-30",
-    "notes": "https://github.com/Zeus756653658/BillingX-updates/releases/tag/v2.3.5.254.156"
+    "notes": "https://github.com/Zeus756653658/BillingX-updates/releases/tag/v2.3.6"
 }
